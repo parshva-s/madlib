@@ -10,13 +10,15 @@ body {
     margin: auto;
     background-color: white;
 }
-h1{
+h1 {
     margin-top: 0px;
     font-family:Arial, Helvetica, "sans-serif";
     color: rgb(101, 180, 204);
     font-variant: small-caps;
     font-weight: 900;
+    font-size: 30px;
 }
+
 h2{
     font-family: Arial, Helvetica, "sans-serif";
 }
